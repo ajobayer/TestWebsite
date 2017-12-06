@@ -18,7 +18,7 @@
         <!--For Plugins external css-->
         <link rel="stylesheet" href="assets/css/plugins.css" />
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">
-		
+
         <link rel="stylesheet" href="assets/css/nexa-web-font.css" />
         <link rel="stylesheet" href="assets/css/opensans-web-font.css" />
 
@@ -34,9 +34,9 @@
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-		
+
 		<div class='preloader'><div class='loaded'>&nbsp;</div></div>
-		
+
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <!-- Brand and toggle get grouped for better mobile display -->
@@ -57,6 +57,7 @@
                         <li><a href="#about">About Me</a></li>
                         <li><a href="#portfolio">Portfolio</a></li>
                         <li><a href="#contact">Contact</a></li>
+                        <li><a href="#contact">BackEnd(DB)</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
@@ -66,28 +67,28 @@
         <header id="home" class="home">
 			<div class="overlay sections">
 				<div class="container">
-					
+
 					<div class="row">
 						<div class="wrapper">
 							<div class="col-md-6 col-md-offset-3">
-								
+
 								<div class="home-details text-center">
-									
+
 									<div class="logo">
 										<img src="assets/images/logo.png" alt="Logo Image" />
 									</div>
-										
+
 									<div class="home-title">
 										<h1><span>JWOOD</span>PHOTOGRAPHY</h1>
 									</div>
-									
+
 									<div class="scroll-down">
 										<h5>Scroll down to see more</h5>
 										<a href="#about"><i class="fa fa-angle-double-down"></i></a>
 									</div>
 
 								</div>
-									
+
 							</div>
 						</div>
 					</div>
@@ -102,13 +103,13 @@
                 <!-- Example row of columns -->
                 <div class="row">
                     <div class="wrapper">
-					
+
                     	<div class="col-md-6">
                     		<div class="about-photo">
 								<img src="assets/images/about.jpg" alt="About Image" />
 							</div>
                     	</div>
-						
+
 						<div class="col-md-6">
                     		<div class="heading about-content">
 								<h3>About Me</h3>
@@ -119,144 +120,144 @@
 								</div>
 							</div>
                     	</div>
-						
-						
-						
+
+
+
                     </div>
                 </div>
-				
+
 				<div class="scroll-down">
 					<h5>keep scrolling, there is still more to come.</h5>
 					<a href="#portfolio"><i class="fa fa-angle-double-down"></i></a>
 				</div>
-				
-            </div> <!-- /container -->       
+
+            </div> <!-- /container -->
         </section>
-		
-		
+
+
 		<!-- Sections -->
         <section id="portfolio" class="portfolio">
 			<div class="overlay sections">
 				<div class="container">
-				
+
 					<div class="heading text-center">
 						<div class="title">
 							<h3>Portfolio</h3>
 						</div>
 					</div>
-					
+
 					<!-- Example row of columns -->
-					
+
 					<div class="row">
 						<div class="portfolio-wrapper">
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/1.png" class="portfolio-img"><img src="assets/images/portfolio/1.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
-								
+
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/2.png" class="portfolio-img"><img src="assets/images/portfolio/2.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/3.png" class="portfolio-img"><img src="assets/images/portfolio/3.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/4.png" class="portfolio-img"><img src="assets/images/portfolio/4.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/5.png" class="portfolio-img"><img src="assets/images/portfolio/5.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
-							
+
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/6.png" class="portfolio-img"><img src="assets/images/portfolio/6.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/7.png" class="portfolio-img"><img src="assets/images/portfolio/7.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/8.png" class="portfolio-img"><img src="assets/images/portfolio/8.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/9.png" class="portfolio-img"><img src="assets/images/portfolio/9.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
 							<div class="portfolio-item">
-							
+
 								<div class="portfolio-details">
 									<a href="assets/images/portfolio/10.png" class="portfolio-img"><img src="assets/images/portfolio/10.png" alt="Portfolio" /></a>
 								</div>
-								
+
 							</div>
-								
-							
+
+
 							<div class="scroll-down">
 								<h5>Do you want to see it with your own eyes? Scroll!</h5>
 								<a href="#contact"><i class="fa fa-angle-double-down"></i></a>
 							</div>
-							
+
 						</div>
 					</div>
 				</div> <!-- /container -->
-			</div>	
+			</div>
         </section>
-		
+
 		<section id="contact" class="contact sections">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3">
 						<div class="contact-details text-center">
-						
+
 							<div class="contact-category">
 								<div class="mail">
 									<h4>Mail :</h4>
 									<h2>Jason@wood.com</h2>
 								</div>
 							</div>
-							
+
 							<div class="contact-category">
 								<div class="phone">
 									<h4>Phone :</h4>
 									<h5>00 11 22 33 44 55 66</h5>
 								</div>
 							</div>
-							
+
 							<div class="contact-category">
 								<div class="social">
 									<h4>Social Media :</h4>
@@ -265,7 +266,7 @@
 									<a href="#"><i class="fa fa-instagram"></i></a>
 								</div>
 							</div>
-							
+
 						</div>
 					</div>
 				</div>
@@ -293,7 +294,7 @@
         <script src="assets/js/plugins.js"></script>
 		<script src="assets/js/jquery.magnific-popup.js"></script>
 
-		 
+
         <script src="assets/js/main.js"></script>
     </body>
 </html>
